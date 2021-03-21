@@ -1,0 +1,141 @@
+.Gallery {
+    display: flex;  
+    width: 25%;
+    padding: 3%;
+    margin: auto;
+    justify-content: center;
+    max-width: 80%;
+    
+
+}
+.column {
+    flex: 25%;
+    padding-left: 4%;
+    
+}
+img:hover {
+    filter: brightness(50%);
+}
+
+
+.marathon {
+    color: white;
+    background-color: rgba(0,0,0, 0.5)
+    text-align: center;
+    position: absolute;
+    opacity: 0.5;
+    bottom: 0;
+    top: 6.5vw;
+    left: 24vw;
+    right: 20vw;
+    font-size: 1.3vw;
+}
+
+.weight {
+    color: white;
+    background-color: rgba(0,0,0, 0.5)
+    text-align: center;
+    position: absolute;
+    opacity: 0.5;
+    bottom: 0;
+    top: 16vw;
+    left: 23vw;
+    right: 20vw;
+    font-size: 1vw;
+}
+.jogging {
+    color: white;
+    background-color: rgba(0,0,0, 0.5)
+    text-align: center;
+    position: absolute;
+    opacity: 0.5;
+    bottom: 0;
+    top: 31vw;
+    left: 23vw;
+    right: 20vw;
+    font-size: 1.7vw;
+}
+.gymnastics {
+    color: white;
+    background-color: rgba(0,0,0, 0.5)
+    text-align: center;
+    position: absolute;
+    opacity: 0.5;
+    bottom: 0;
+    top: 7vw;
+    left: 37vw;
+    right: 10vw;
+    font-size: 1.2vw;
+}
+.basketball {
+    color: white;
+    background-color: rgba(0,0,0, 0.5)
+    text-align: center;
+    position: absolute;
+    opacity: 0.5;
+    bottom: 0;
+    top: 26vw;
+    left: 37vw;
+    right: 20vw;
+    font-size: 1.3vw;
+}
+.climbing {
+    color: white;
+    background-color: rgba(0,0,0, 0.5)
+    text-align: center;
+    position: absolute;
+    opacity: 0.5;
+    bottom: 0;
+    top: 7vw;
+    left: 51.5vw;
+    right: 5vw;
+    font-size: 1.3vw;
+}
+.swimming {
+    color: white;
+    background-color: rgba(0,0,0, 0.5)
+    text-align: center;
+    position: absolute;
+    opacity: 0.5;
+    bottom: 0;
+    top: 16vw;
+    left: 51vw;
+    right: 5vw;
+    font-size: 1.3vw;
+}
+.running {
+    color: white;
+    background-color: rgba(0,0,0, 0.5)
+    text-align: center;
+    position: absolute;
+    opacity: 0.5;
+    bottom: 0;
+    top: 35vw;
+    left: 52vw;
+    right: 5vw;
+    font-size: 1.3vw;
+}
+.skiing {
+    color: white;
+    background-color: rgba(0,0,0, 0.5)
+    text-align: center;
+    position: absolute;
+    opacity: 0.5;
+    bottom: 0;
+    top: 20vw;
+    left: 68vw;
+    right: 5vw;
+    font-size: 1.5vw;
+}
+.cycling {
+    color: white;
+    background-color: rgba(0,0,0, 0.5)
+    text-align: center;
+    position: absolute;
+    opacity: 0.5;
+    bottom: 0;
+    top: 38vw;
+    left: 66vw;
+    right: 5vw;
+    font-size: 1.5vw;
+}
